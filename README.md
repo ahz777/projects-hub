@@ -12,7 +12,7 @@
 
 ## Web Application
 - [Travel Journal App](https://github.com/ahz777/travel-journal) [ React | Node | Express | mongoDB ]
-- [Portfolio App](https://github.com/ahz777/react-portfolio-app) [ React | Redux ]
+- [Portfolio App](https://github.com/ahz777/React-Portfolio-Project) [ React | Redux ]
 - [Todo App](https://github.com/ahz777/react-todo-app) [ React | Bootstrap ]
 - [Quiz App](https://github.com/ahz777/react-quiz-app) [ React ]
 - [Card War](https://github.com/ahz777/js-card-war) [ Vanilla JS ]
