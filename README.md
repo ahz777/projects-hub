@@ -11,12 +11,13 @@
 ## 📚 Project Index
 
 ## Web Application
+- [Multi-Vendor Marketplace App](https://github.com/ahz777/NxtMarket) [ Node | Express | mongoDB | PostgreSQL ]
 - [Travel Journal App](https://github.com/ahz777/travel-journal) [ React | Node | Express | mongoDB ]
 - [Portfolio App](https://github.com/ahz777/React-Portfolio-Project) [ React | Redux ]
 - [Todo App](https://github.com/ahz777/react-todo-app) [ React | Bootstrap ]
 - [Quiz App](https://github.com/ahz777/react-quiz-app) [ React ]
-- [Card War](https://github.com/ahz777/js-card-war) [ Vanilla JS ]
-- [Shopping Cart](https://github.com/ahz777/js-shopping-cart) [ Vanilla JS ]
+- [Card Game App](https://github.com/ahz777/js-card-war) [ Vanilla JS ]
+- [Shopping App](https://github.com/ahz777/js-shopping-cart) [ Vanilla JS ]
 
 ## C++
 - [Sudoku Game](https://github.com/ahz777/cpp-sudoku-game)
